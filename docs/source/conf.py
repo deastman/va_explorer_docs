@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'VA Explorer'
+copyright = '2022, The MITRE Coporation'
+author = 'The MITRE Coporation'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,13 +1,8 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to VA Explorer's documentation!
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**VA Explorer** is a Django web application, built to both demonstrate verbal autopsy data management and analysis
+capabilities and act as a foundation for exploring new concepts. 
 
 .. note::
 
@@ -17,6 +12,50 @@ Contents
 --------
 
 .. toctree::
+  :maxdepth: 1
+  :hidden:
 
-   usage
-   api
+  overview
+
+.. toctree::
+  :hidden:
+  :maxdepth: 1
+  :caption: Overview
+
+  overview-background
+  overview-support
+
+.. toctree::
+  :maxdepth: 1
+  :hidden:
+
+  getting-started
+
+.. toctree::
+  :hidden:
+  :maxdepth: 1
+  :caption: Getting Started
+
+  getting-started-installation
+  getting-started-deployment
+  getting-started-management
+  getting-started-configuration
+  getting-started-tips
+
+.. toctree::
+  :hidden:
+  :maxdepth: 2
+  :caption: Training
+
+  training-general
+  training-admin
+  training-data-viewer
+  training-field-worker
+
+.. toctree::
+  :hidden:
+  :maxdepth: 2
+  :caption: Reference
+
+  ref-security-privacy
+  ref-license
